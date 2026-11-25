@@ -1,5 +1,6 @@
 import os
 
+# One-line office joke: writes the entry line to /output/entry.txt.
 LINE = "My boss said to think outside the box, so now I take all my meetings from the parking lot \u2014 same emails, better Wi-Fi, and nobody can tell I am in pajamas."
 
 assert 1 <= len(LINE) <= 200, "entry must be 1-200 characters"
